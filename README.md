@@ -18,7 +18,7 @@ Keeps everyone's styles in order
 - [stylelint-config-idiomatic-order](https://www.npmjs.com/package/stylelint-config-idiomatic-order)
 - [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier)
 - [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)
-- [stylelint-prettier](https://www.npmjs.com/package/stylelint-config-prettier)
+- [stylelint-prettier](https://www.npmjs.com/package/stylelint-prettier)
 - [stylelint-scss](https://www.npmjs.com/package/stylelint-scss)
 
 ```bash
